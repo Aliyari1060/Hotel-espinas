@@ -1,0 +1,103 @@
+@media only screen and (max-width:576px){
+    .slider2,.img-slide{
+        height: 400px;
+        margin-bottom: 40px;
+    }
+    .baresi{
+        width: 335px;
+        height: 48px;
+    }
+    .father-choose{
+        width: 431px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .caption-slide{
+        width: 297px;
+        height: 135px;
+    }
+    .resturant-modern{
+        margin: 0;
+        margin-top: 0;
+        padding-left: 20px;
+        margin-bottom: 10px;
+    }
+    .name-resturant{
+        padding-left: 20px;
+    }
+    .slider4{
+        height: 90vh;
+    }
+    .img-slide3{
+        height: 90vh;
+        object-fit: cover;
+    }
+
+}
+@media only screen and (min-width:576px){
+    .hotel-espinas,.ehsasat{
+        text-align: start;
+        display: inline-block;
+        margin-right: 70px;
+    }
+    .ehsasat2{
+        margin-right: 70px;
+    }
+    .part4-1{
+        display: flex;
+        align-items: center;
+        justify-content: right;
+        flex-direction: column;
+    }
+    .sweet,.tachrobe,.ehteram{
+        text-align: start;
+        display: block;
+        width: 100%;
+    }
+    .ehteram{
+        width: 469px;
+        height: 120px;
+        margin-right: -470px;
+        text-align: justify;
+    }
+    .tachrobe{
+        width: 516px;
+        margin-right: -430px;
+    }
+    .card2{
+        width: 444px;
+    }
+    .mother-icon3{
+        margin-top: 0;
+        align-items: flex-start;
+    }
+    .center-health{
+        width: 358px;
+        height: 90px;
+    }
+    .mother-icon1{
+        align-items: flex-end;
+    }
+    .father-card{
+        margin-top: 120px;
+    }
+    .part6{
+        margin-top: 300px;
+    }
+    .ertebat{
+        text-align: right;
+    }
+    .daryaft{
+        text-align: right;
+    }
+    
+}
+@media only screen and (min-width:1067px){
+    .img-slide2{
+        width: 720px;
+    }
+    .baresi{
+        width: 90px;
+    }
+
+}
